@@ -1,0 +1,111 @@
+.wrap {
+    text-align: center;
+}
+
+.profile {
+    width: 220px;
+    height: 250px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.me {
+    width: 156px;
+    border-radius: 10%;
+    margin: auto;
+    margin-top: 20px;
+    box-shadow: none;
+}
+
+p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    color: #BDBDBD;
+    margin: 0px;
+    margin-top: 4px;
+}
+
+.post {
+    margin-top: 3px;
+}
+
+.name {
+    font-size: 24px;
+    color: #4E5150;
+    margin-bottom: 4px;
+}
+
+.container {
+    margin: auto;
+    width: 372px;
+}
+
+.contains {
+    float: left;
+    width: 100px;
+    height: 67px;
+    margin-left: 12px;
+    margin-right: 12px;
+    margin-bottom: 40px;
+    background: #E5E5E5;
+    border-radius: 12px;
+}
+
+.number {
+    font-size: 18px;
+    color: black;
+    margin-top: 15px;
+}
+
+.photos {
+    width: 66vw;
+    clear: left;
+    margin: auto;
+}
+
+img {
+    margin: 1vw;
+    width: 20vw;
+    border-radius: 2vw;
+    box-shadow: 0 0.2vw 0.5vw 0 rgba(100, 100, 100, 0.5);
+}
+
+.up-left {
+    float: left;
+}
+
+.up-right {
+    float: left;
+    width: 42vw;
+}
+
+.left {
+    clear: left;
+    float: left;
+    margin: 0px;
+}
+
+.center-left {
+    clear: left;
+    float: left;
+    width: 42vw;
+}
+
+.down-left {
+    clear: left;
+    float: left;
+}
+
+.down-center {
+    float: left;
+}
+
+.right {
+    float: left;
+    margin: 0px;
+}
+
+.down-right {
+    width: 19.8vw;
+}
